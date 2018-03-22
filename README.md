@@ -721,3 +721,12 @@ AWS, Web Development, Python, Serverless, AI
 - [Twitter](https://www.twitter.com/geewiz)
 - [Github](https://github.com/geewiz)
 - [Website](http://jochen.lillich.co)
+
+### Stropheum
+#### What Stropheum streams
+- Game development, Android programming, CS fundamental lectures
+#### Languages Spoken During Stream
+- English
+#### Lings:
+- [Github](https://github.com/Stropheum)
+- [Twitch](https://www.twitch.tv/stropheum)
